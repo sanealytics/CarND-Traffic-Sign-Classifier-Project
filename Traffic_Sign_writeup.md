@@ -24,13 +24,13 @@ The goals / steps of this project are the following:
 [image7]: ./examples/placeholder.png "Traffic Sign 4"
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
 
-[RightOfWay]: ./data/newdata/100_1607.jpg "Right of way at next intersection"
-[20]: newdata/20.jpg "20 km/h"
-[30]: newdata/canstock14957677.jpg "30 km/h"
-[chidcross]: newdata/german-traffic-signs-picture-id459381295.jpg "Children crossing"
-[pedestrian]: newdata/german-traffic-signs-picture-id469763303.jpg "Pedestrian crossing"
-[bicycles]: newdata/germany-neuharlingersiel-no-bicycles-sign-on-beach-emc7k6.jpg "Bicycles"
-[30_2]: newdata/stock-photo-german-traffic-sign-indicating-a-zone-with-reduced-traffic-and-a-speed-limit-of-kilometers-per-249213382.jpg
+[RightOfWay]: ./newdata/100_1607.jpg "Right of way at next intersection"
+[20]: ./newdata/20.jpg "20 km/h"
+[30]: ./newdata/canstock14957677.jpg "30 km/h"
+[chidcross]: ./newdata/german-traffic-signs-picture-id459381295.jpg "Children crossing"
+[pedestrian]: ./newdata/german-traffic-signs-picture-id469763303.jpg "Pedestrian crossing"
+[bicycles]: ./newdata/germany-neuharlingersiel-no-bicycles-sign-on-beach-emc7k6.jpg "Bicycles"
+[30_2]: ./newdata/stock-photo-german-traffic-sign-indicating-a-zone-with-reduced-traffic-and-a-speed-limit-of-kilometers-per-249213382.jpg "30 kmph"
 
 
 ## Rubric Points
@@ -216,7 +216,7 @@ Convolution kernel is the ideal solution to this problem as it works well for im
 
 ####1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
-Here are five German traffic signs that I found on the web:
+Here are seven German traffic signs that I found on the web:
 
 ![alt text][RightOfWay] ![alt text][20] ![alt text][30] 
 ![alt text][ChildCross] ![alt text][Pedestrian]
